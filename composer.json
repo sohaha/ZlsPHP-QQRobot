@@ -1,0 +1,19 @@
+{
+  "name": "zls/qq-roboot",
+  "description": "ZlsPHP Swoole模式",
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "影浅",
+      "email": "seekwe@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Zls\\QQ\\": "src/"
+    }
+  },
+  "require": {}
+}
